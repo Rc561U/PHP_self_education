@@ -7,14 +7,5 @@ The application has been successfully adopted for [best](https://www.infinityfre
 [Try it for free](http://myphpcrud.epizy.com) - **myphpcrud.epizy.com**
 ## Screenshots:
 
-<img
-src="assets/sshot1.png"
-alt="Alt text"
-title="Optional title"
-style="display: inline-block; margin: 0 auto; max-width: 300px">
-<br>
-<img
-src="assets/sshot2.png"
-alt="Alt text"
-title="Optional title"
-style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="assets/sshot1.png" alt="drawing" style="width:500px;"/>
+<img src="assets/sshot2.png" alt="drawing" style="width:500px;"/>
